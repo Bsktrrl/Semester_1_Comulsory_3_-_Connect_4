@@ -13,12 +13,12 @@ As with "tic-tac-toe" I wanted to make it possible for the players to personaliz
 <table width="10%">
       <tr><td><b>Main menu</b></td>
       <td><b>Game Modes</b></td></tr>
-      <tr><td><img src="https://github.com/Bsktrrl/Bsktrrl.github.io/blob/main/images/Connect4/MainMenu.jpg" width="40%"/></td>
-      <td><img src="https://github.com/Bsktrrl/Bsktrrl.github.io/blob/main/images/Connect4/SelectMode.jpg" width="40%"/></td></tr>
+      <tr><td><img src="https://github.com/Bsktrrl/Bsktrrl.github.io/blob/main/images/Connect4/MainMenu.jpg" width="45%"/></td>
+      <td><img src="https://github.com/Bsktrrl/Bsktrrl.github.io/blob/main/images/Connect4/SelectMode.jpg" width="45%"/></td></tr>
  </table>
  <table width="10%">
       <tr><td><b>Score Board</b></td>
       <td><b>Settings</b></td></tr>
-      <tr><td><img src="https://github.com/Bsktrrl/Bsktrrl.github.io/blob/main/images/Connect4/Score.jpg" width="40%"/></td>
-      <td><img src="https://github.com/Bsktrrl/Bsktrrl.github.io/blob/main/images/Connect4/Settings.jpg" width="40%"/><br></td></tr>
+      <tr><td><img src="https://github.com/Bsktrrl/Bsktrrl.github.io/blob/main/images/Connect4/Score.jpg" width="45%"/></td>
+      <td><img src="https://github.com/Bsktrrl/Bsktrrl.github.io/blob/main/images/Connect4/Settings.jpg" width="45%"/><br></td></tr>
 </table>
