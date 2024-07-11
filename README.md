@@ -10,13 +10,13 @@ I managed to make "animations", so it seemed that the computer was thinking on i
 <br>
 As with "tic-tac-toe" I wanted to make it possible for the players to personalize themself by adding change of name, icon and color. This time I had also learned saving to file, so I added this function as well, for future play, with a possibility of resetting the save data.
 
-<table width="100%">
+<table width="75%">
       <tr><td><b>Main menu</b></td>
       <td><b>Game Modes</b></td></tr>
       <tr><td><img src="https://github.com/Bsktrrl/Bsktrrl.github.io/blob/main/images/Connect4/MainMenu.jpg"/></td>
       <td><img src="https://github.com/Bsktrrl/Bsktrrl.github.io/blob/main/images/Connect4/SelectMode.jpg"/></td></tr>
  </table>
- <table width="100%">
+ <table width="75%">
       <tr><td><b>Score Board</b></td>
       <td><b>Settings</b></td></tr>
       <tr><td><img src="https://github.com/Bsktrrl/Bsktrrl.github.io/blob/main/images/Connect4/Score.jpg"/></td>
