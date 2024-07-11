@@ -1,7 +1,7 @@
 <img src="https://github.com/Bsktrrl/Bsktrrl.github.io/blob/main/images/Connect4/Connect4.gif" width="15%"/><br>
 
 ## Project Description
-This was my third compulsory in the "Programming I" course. Here, I were to make a playable "Connect 4"-game using button inputs.
+This was my third compulsory in the "Programming I" course. Here, I were to make a playable "Connect 4"-game using button inputs with a more interractive menu.
 <br>
 <br>
 Here I wanted to use everything I had learned through the last 2 months, making an AI able to play Computer vs. Computer.
