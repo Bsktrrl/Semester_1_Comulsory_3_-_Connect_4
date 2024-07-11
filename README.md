@@ -1,4 +1,4 @@
-<img src="https://github.com/Bsktrrl/Bsktrrl.github.io/blob/main/images/TicTacToe/Gameplay.gif" width="15%"/><br>
+<img src="https://github.com/Bsktrrl/Bsktrrl.github.io/blob/main/images/Connect4/Connect4.gif" width="15%"/><br>
 
 ## Project Description
 My first compulsory had deliverance 2 weeks into the first semester. Here, I were to make a playable "tic-tac-toe"-game using button inputs.
